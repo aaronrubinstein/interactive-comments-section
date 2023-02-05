@@ -63,7 +63,7 @@
         fill: var(--moderate-blue);
     }
 
-    @media (max-width: 580px) {
+    @media (max-width: 700px) {
 
         .score-control {
             height: 40px;

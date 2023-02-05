@@ -262,7 +262,7 @@
         color: var(--moderate-blue);
     }
 
-    @media (max-width: 580px) {
+    @media (max-width: 700px) {
 
         .reply-container {
             margin-left: 16px;

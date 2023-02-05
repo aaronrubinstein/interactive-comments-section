@@ -105,7 +105,7 @@
         background: var(--light-grayish-blue);
     }
 
-    @media (max-width: 580px) {
+    @media (max-width: 700px) {
 
         .card {
             padding: 16px;

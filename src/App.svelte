@@ -33,7 +33,7 @@
         row-gap: 20px;
     }
 
-    @media (max-width: 580px) {
+    @media (max-width: 700px) {
         main {
             margin: 32px 0;
         }
