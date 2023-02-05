@@ -10,7 +10,9 @@ This is a solution to the [Interactive comments section challenge on Frontend Me
 ### Screenshot
 
 **Desktop**
-<img src="./solution/Desktop.jpg" height=50% width=50%>
+
+<img src="./solution/Desktop.jpg" height=60% width=60%>
 
 **Mobile**
-<img src="./solution/Mobile.jpg" height=80% width=80%>
+
+<img src="./solution/Mobile.jpg" height=30% width=30%>
